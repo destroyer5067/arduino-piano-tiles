@@ -21,7 +21,7 @@ Build a bot using arduino uno which can play the famous mobile game piano tiles
 
 
 
-## ***ABOUT PIANO TiLES BOT***
+## ***ABOUT PIANO TILES BOT***
 
 Ever wondered if your phone can play games by itself.
 Yes, it is possible. You can build a circuit to play Piano tiles on your smartphone.
